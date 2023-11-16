@@ -6,5 +6,4 @@ Combining the beauty of mathematics with the power of WebGL, our explorer offers
 Join us in this journey of discovery and wonder.
 
 (The existing code on this project will output a colourful traingle with a heading).
-
 (This code will be updated with the actual mandlebrot code as time passes).
