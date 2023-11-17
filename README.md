@@ -1,9 +1,3 @@
-# WebGL Mandlebrot Set Explorer
+# Gravity Shift: WebJL Endless Runner
 
-Immerse yourself in the mesmerizing world of fractals with our WebGL Mandelbrot Set Explorer. 
-This interactive project allows users to navigate and zoom into the intricate details of the Mandelbrot set. 
-Combining the beauty of mathematics with the power of WebGL, our explorer offers a captivating visual experience. 
-Join us in this journey of discovery and wonder.
-
-(The existing code on this project will output a colourful traingle with a heading).
-(This code will be updated with the actual mandlebrot code as time passes).
+The core mechanic involves dynamically switching gravity's direction using the spacebar, allowing the character to maneuver up and down to avoid obstacles and gaps between platforms. The game offers a seamless experience, challenging players' reflexes and strategic thinking as they aim for high scores by surviving as long as possible. Built with WebGL, this game showcases smooth graphics and interactive gameplay, providing an immersive experience for players seeking an engaging, gravity-defying challenge
